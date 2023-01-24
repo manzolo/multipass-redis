@@ -1,5 +1,5 @@
-# Multipass postgres db VM
-This project help to create an instance of postgres db (with pgadmin) in a multipass vm
+# Multipass redis VM
+This project help to create an instance of redis (with redis-stack) in a multipass vm
 ## Install VM
 ### Set parameters:
 ```
@@ -18,11 +18,10 @@ nano env
 ./uninstall.sh
 ```
 
+
 ## Example
-![immagine](https://user-images.githubusercontent.com/7722346/214156859-95fbc2e2-336a-4af0-b23d-9d99f9e3d1e1.png)
+![immagine](https://user-images.githubusercontent.com/7722346/214379934-7c3f4558-4f68-41ad-8a4f-02d6d919ef0c.png)
 
-![immagine](https://user-images.githubusercontent.com/7722346/214156987-ebbef8ab-28d8-4ae9-a6a7-8d4e74791ff3.png)
+![immagine](https://user-images.githubusercontent.com/7722346/214380014-115c940c-60a1-4954-a512-4f0509d1b9d1.png)
 
-![immagine](https://user-images.githubusercontent.com/7722346/214157183-44e6624c-551a-40e2-97c7-e9471387fb98.png)
-
-![immagine](https://user-images.githubusercontent.com/7722346/214161461-49ce7324-1935-4920-ab2c-23dfc1018146.png)
+![immagine](https://user-images.githubusercontent.com/7722346/214381070-44b92199-262a-4e85-98bd-df30984b8192.png)
